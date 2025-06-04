@@ -1,4 +1,4 @@
-# 🔐 SecurePassManager
+# 🔐 DesenvolvimentoSeguro - SecurePassManager
 
 [![Java](https://img.shields.io/badge/Java-17-orange.svg)](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
 [![Maven](https://img.shields.io/badge/Maven-3.6+-blue.svg)](https://maven.apache.org/)
@@ -6,7 +6,7 @@
 [![Security](https://img.shields.io/badge/Security-AES%2Fbcrypt-yellow.svg)](https://www.bouncycastle.org/)
 [![2FA](https://img.shields.io/badge/2FA-TOTP%20%7C%20QR%20Code-blueviolet.svg)](https://github.com/google/google-authenticator)
 
-Um gerenciador de senhas seguro e moderno desenvolvido em Java, oferecendo recursos avançados de segurança e uma interface intuitiva para gerenciar suas credenciais de forma segura.
+**SecurePassManager** é um gerenciador de senhas seguro e moderno desenvolvido em Java, oferecendo recursos avançados de proteção, autenticação e usabilidade para armazenar e gerenciar credenciais com total segurança.
 
 ## ✨ Funcionalidades Principais
 
@@ -29,23 +29,23 @@ Um gerenciador de senhas seguro e moderno desenvolvido em Java, oferecendo recur
   - Proteção contra SQL Injection
 
 - 👥 **Multi-usuário**
-  - Suporte a múltiplos usuários
-  - Isolamento de dados entre usuários
-  - Gerenciamento de permissões
+  - Isolamento completo de dados entre usuários
+  - Gerenciamento granular de permissões
 
-## 🚀 Começando
 
-### Pré-requisitos
+## 🚀 Primeiros Passos
+
+### ✅ Requisitos
 
 - Java 17 ou superior
 - Maven 3.6 ou superior
 - MongoDB 4.4 ou superior (rodando localmente na porta 27017)
 
-### Instalação
+### ⚙️ Instalação
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Matheeoo/SecurePassManager
+   git clone https://github.com/Miires/SecurePassManager
    cd SecurePassManager
    ```
 
