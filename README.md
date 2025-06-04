@@ -1,6 +1,7 @@
 # 🔐 DesenvolvimentoSeguro - SecurePassManager
 
 **SecurePassManager** é um gerenciador de senhas seguro e moderno desenvolvido em Java, oferecendo recursos avançados de proteção, autenticação e usabilidade para armazenar e gerenciar credenciais com total segurança.
+
 [![Java](https://img.shields.io/badge/Java-17-orange.svg)](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
 [![Maven](https://img.shields.io/badge/Maven-3.6+-blue.svg)](https://maven.apache.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
